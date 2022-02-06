@@ -8,4 +8,4 @@ This folder contains the trained models for U-net, Attention U-net, and U-net++
   - 3rdm_att_UNet_50epochs.h5
   
 - U-net++
-  -3rdm_att_UNet_50epochs.h5
+  -3rdm_UNet_plus_50epochs.h5
