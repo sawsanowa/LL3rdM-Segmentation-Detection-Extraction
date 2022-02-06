@@ -24,7 +24,7 @@ Three models are evaluated:
 
 <p align="center"> 
 
-<img width="700" height="400" src="https://github.com/sawsanowa/Age_Estimation_Using_LL3rdM/blob/main/Model_Architecture/U-net%20Arch%20256x512x1.png"/>
+<img width="700" height="400" src="https://github.com/sawsanowa/LL3rdM-Segmentation-Detection-Extraction/blob/main/Figures/U-net%20Arch%20256x512x1.png"/>
  
 </p>
 
@@ -35,6 +35,6 @@ Three models are evaluated:
 
 <p align="center"> 
  
- <img width="600" height="500" src="https://github.com/sawsanowa/Age_Estimation_Using_LL3rdM/blob/main/Figures/U-net_comparison.PNG"/>
+ <img width="600" height="600" src="https://github.com/sawsanowa/LL3rdM-Segmentation-Detection-Extraction/blob/main/Figures/U-net%20Models%20Result%20Comparison.png"/>
  
 </p>
