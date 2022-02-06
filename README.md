@@ -5,9 +5,9 @@ Using deep learning a U-net architecture is used to make segmentation, detection
 
 <h3>Main Sections</h3>
 
-- [x] Part1: Develope a U-net Model Detecting the lower left third molar and compair with U-net++ and attention U-net  .
-- [x] Part2: Model Prediction. 
-- [x] Part3: Model Evaluation.
+- [x] Part1: Training a U-net Model for Detecting the lower left third molar and compare it with additional developed models U-net++ and attention U-net  .
+- [x] Part2: Models Prediction. 
+- [x] Part3: Models Evaluation.
 
 <hr>
 
