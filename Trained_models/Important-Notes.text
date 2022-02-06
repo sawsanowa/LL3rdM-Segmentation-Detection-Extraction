@@ -1,11 +1,11 @@
-This folder containes the trained models for U-net, Attention U-net, and U-net++
+This folder contains the trained models for U-net, Attention U-net, and U-net++
 
-* U-net Model(two files)
-  *For full model-> saved_model_diffszie_512x256.h5
-  *For weights only-> model_weights_diffszie_512x256.h5
+- U-net Model(two files)
+  - For full model-> saved_model_diffszie_512x256.h5
+  - For weights only-> model_weights_diffszie_512x256.h5
   
-* Attention U-net
-  *3rdm_att_UNet_50epochs.h5
+- Attention U-net
+  - 3rdm_att_UNet_50epochs.h5
   
-* U-net++
-  *3rdm_att_UNet_50epochs.h5
+- U-net++
+  -3rdm_att_UNet_50epochs.h5
