@@ -35,6 +35,6 @@ Three models are evaluated:
 
 <p align="center"> 
  
- <img width="600" height="600" src="https://github.com/sawsanowa/LL3rdM-Segmentation-Detection-Extraction/blob/main/Figures/U-net%20Models%20Result%20Comparison.png"/>
+ <img width="600" height="700" src="https://github.com/sawsanowa/LL3rdM-Segmentation-Detection-Extraction/blob/main/Figures/U-net%20Models%20Result%20Comparison.png"/>
  
 </p>
